@@ -1,0 +1,7 @@
+echo "# 100-Days-Of-Code---Log" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/NaoPanda/100-Days-Of-Code---Log.git
+git push -u origin master
+
